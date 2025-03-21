@@ -6,17 +6,28 @@ TIL(Today I Learned)
 - linux
 - markdown
 
-# 3월 2주차
-- ML
-
-- chatbot
-
-- web
-00_html
-01_form
-02_subway
-03_css
-04_bootstrap
+# 3월 3주차
+django1
+index
+hello
+lunch
+lotto
+profile
+cube
+articles
+CRUD
+Create
+Read
+Update
+Delete
+BOARD
+Create
+Read
+Update
+Delete
+MODELFORM
+Create
+Read
 
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
 
